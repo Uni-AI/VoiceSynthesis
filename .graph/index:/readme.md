@@ -1,0 +1,2 @@
+- https://codelabs.developers.google.com/codelabs/cloud-text-speech-python3#0
+- https://www.geeksforgeeks.org/convert-text-speech-python/
